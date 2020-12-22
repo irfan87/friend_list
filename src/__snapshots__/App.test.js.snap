@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FriendList should have snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="app"
+  >
+    <header>
+      <nav
+        class="navbar navbar-expand-lg navbar-dark bg-primary"
+      >
+        <div
+          class="container"
+        >
+          <span
+            class="navbar-brand"
+          >
+            FriendList
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main
+      class="py-3"
+    >
+      <div
+        class="container"
+      >
+        <div>
+          <h1>
+            Friend List
+          </h1>
+        </div>
+      </div>
+    </main>
+    <footer>
+      <nav
+        class="navbar navbar-expand navbar-dark bg-primary"
+      >
+        <div
+          class="container"
+        >
+          <div
+            class="row"
+          >
+            <div
+              class="text-center py-3 col"
+            >
+              Copyright © FriendList
+            </div>
+          </div>
+        </div>
+      </nav>
+    </footer>
+  </div>
+</DocumentFragment>
+`;
