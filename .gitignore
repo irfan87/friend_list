@@ -21,3 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# ignoring the .eslintcache to avoid conflicted in the future
+.eslintcache
